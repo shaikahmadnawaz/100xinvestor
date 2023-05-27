@@ -2,11 +2,7 @@ const Navbar = () => {
   return (
     <nav className="flex flex-row items-center justify-center w-full bg-blue_gray_100 px-10 my-5">
       <div className="flex flex-row  space-x-3 items-center justify-start w-24">
-        <img
-          src="/src/assets/logo.png"
-          className="h-[78px] w-[78px]"
-          alt="logo"
-        />
+        <img src="logo.png" className="h-[78px] w-[78px]" alt="logo" />
         <h1 className="text-blue_gray_700 text-center text-2xl font-bold">
           100xInvestor
         </h1>

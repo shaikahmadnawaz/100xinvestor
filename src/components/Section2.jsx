@@ -3,7 +3,7 @@ const Section2 = () => {
     <section className="flex flex-row  items-center justify-between mt-16 px-48 space-x-6">
       <div className="">
         <img
-          src="src/assets/section2.svg"
+          src="section2.svg"
           className="h-[460px] w-[460px]"
           alt="sponsoramicoOne"
         />

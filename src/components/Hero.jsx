@@ -2,13 +2,13 @@ const Hero = () => {
   return (
     <header className="relative">
       <img
-        src="/src/assets/star1.svg"
+        src="star1.svg"
         className="h-[27px] left-1/3 absolute inline w-[27px]"
         alt="starOne"
       />
       <div className="flex flex-row font-gelasio items-center justify-center mx-auto w-full">
         <img
-          src="/src/assets/star5.svg"
+          src="star5.svg"
           className="h-[27px] top-28 absolute inline w-[27px]"
           alt="starFive"
         />
@@ -17,7 +17,7 @@ const Hero = () => {
           <div className="auto w-full">
             <div className="flex h-max inset-[0] items-center justify-center m-auto w-full">
               <img
-                src="/src/assets/hero-arrow.svg"
+                src="hero-arrow.svg"
                 className="h-[123px] inline absolute right-[570px] -top-[-60px]"
                 alt="vectorThirtySeven"
               />
@@ -36,7 +36,7 @@ const Hero = () => {
               <div className="flex flex-row md:gap-10 items-start justify-center w-full">
                 <div className="flex items-center mr-[500px] justify-start">
                   <img
-                    src="/src/assets/hero1.png"
+                    src="hero1.png"
                     className="h-[450px] object-cover w-full"
                     alt="hero1"
                   />
@@ -56,7 +56,7 @@ const Hero = () => {
                 </button>
                 <div className="flex items-center mt-32 justify-end">
                   <img
-                    src="/src/assets/hero2.png"
+                    src="hero2.png"
                     className="h-[450px] object-cover w-full"
                     alt="rectangleThree"
                   />
@@ -72,20 +72,20 @@ const Hero = () => {
           <div className="absolute flex flex-col font-poppins h-max inset-y-[0] justify-start my-auto right-[2%] w-[81%]">
             <div className="flex md:flex-col flex-row md:gap-5 items-start justify-end md:ml-[0] ml-[448px] w-[66%] md:w-full">
               <img
-                src="/src/assets/star7.svg"
+                src="star7.svg"
                 className="h-[27px] inline absolute top-8 right-1 w-[27px]"
                 alt="starSeven"
               />
 
               <img
-                src="/src/assets/star4.svg"
+                src="star4.svg"
                 className="h-[27px] inline top-60 -left-36 absolute w-[27px]"
                 alt="starFour"
               />
             </div>
 
             <img
-              src="/src/assets/hero-up.svg"
+              src="hero-up.svg"
               className="absolute top-5 left-44 h-[106px]"
               alt="vectorEight"
             />
@@ -96,7 +96,7 @@ const Hero = () => {
                 </h4>
               </div>
               <img
-                src="/src/assets/star3.svg"
+                src="star3.svg"
                 className="h-[27px] top-52 left-[700px] absolute inline w-[27px]"
                 alt="starThree"
               />
@@ -105,7 +105,7 @@ const Hero = () => {
         </div>
       </div>
       <img
-        src="/src/assets/star6.svg"
+        src="star6.svg"
         className="h-[27px] absolute inline w-[27px]"
         alt="starSix"
       />

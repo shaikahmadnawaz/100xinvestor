@@ -20,7 +20,7 @@ const Investors = () => {
       </div>
       <div className="flex flex-row space-x-10 mt-10 items-center justify-center">
         <img
-          src="/src/assets/salesforce.png"
+          src="salesforce.png"
           className="h-10"
           alt="downloadFortyOne"
         />

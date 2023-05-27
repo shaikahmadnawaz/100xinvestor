@@ -13,7 +13,7 @@ const Section1 = () => {
       </div>
       <div className="">
         <img
-          src="src/assets/sec1.svg"
+          src="sec1.svg"
           className="h-[460px] w-[460px]"
           alt="sponsoramicoOne"
         />

@@ -1,7 +1,7 @@
 const Trusted = () => {
   return (
     <div>
-      <img src="/src/assets/trusted.svg" className="" alt="" />
+      <img src="/trusted.svg" className="" alt="" />
     </div>
   );
 };

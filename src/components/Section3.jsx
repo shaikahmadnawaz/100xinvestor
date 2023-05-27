@@ -19,7 +19,7 @@ const Section3 = () => {
       </div>
       <div className="">
         <img
-          src="src/assets/section3.svg"
+          src="section3.svg"
           className="h-[460px] w-[460px]"
           alt="sponsoramicoOne"
         />

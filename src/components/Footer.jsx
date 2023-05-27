@@ -8,7 +8,7 @@ const Footer = () => {
             <div className="flex flex-row md:gap-10 gap-[359px] items-start justify-between w-auto md:w-full">
               <div className="flex flex-row gap-4 items-center justify-start w-[19%] md:w-full">
                 <img
-                  src="/src/assets/logo.png"
+                  src="logo.png"
                   className="h-[78px] md:h-auto object-cover w-[78px]"
                   alt="imageThree_One"
                 />
