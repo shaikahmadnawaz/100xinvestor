@@ -1,8 +1,6 @@
-import React from "react";
-
 const Section1 = () => {
   return (
-    <section className="flex flex-row  items-center justify-between mt-24 px-48 space-x-6">
+    <section className="flex flex-row  items-center justify-between mt-20 px-48 space-x-6">
       <div className="flex flex-col w-1/2 space-y-4 items-center justify-center">
         <h1 className="font-gelasio font-bold text-4xl text-blue_gray_900 w-full">
           A comprehensive database of investors

@@ -1,17 +1,15 @@
-import React from "react";
-
 const Hero = () => {
   return (
     <header className="relative">
       <img
         src="/src/assets/star1.svg"
-        className="h-[27px] absolute inline w-[27px]"
+        className="h-[27px] left-1/3 absolute inline w-[27px]"
         alt="starOne"
       />
       <div className="flex flex-row font-gelasio items-center justify-center mx-auto w-full">
         <img
           src="/src/assets/star5.svg"
-          className="h-[27px] absolute inline w-[27px]"
+          className="h-[27px] top-28 absolute inline w-[27px]"
           alt="starFive"
         />
 
@@ -75,13 +73,13 @@ const Hero = () => {
             <div className="flex md:flex-col flex-row md:gap-5 items-start justify-end md:ml-[0] ml-[448px] w-[66%] md:w-full">
               <img
                 src="/src/assets/star7.svg"
-                className="h-[27px] inline absolute  w-[27px]"
+                className="h-[27px] inline absolute top-8 right-1 w-[27px]"
                 alt="starSeven"
               />
 
               <img
                 src="/src/assets/star4.svg"
-                className="h-[27px] inline absolute w-[27px]"
+                className="h-[27px] inline top-60 -left-36 absolute w-[27px]"
                 alt="starFour"
               />
             </div>
@@ -99,7 +97,7 @@ const Hero = () => {
               </div>
               <img
                 src="/src/assets/star3.svg"
-                className="h-[27px] absolute inline w-[27px]"
+                className="h-[27px] top-52 left-[700px] absolute inline w-[27px]"
                 alt="starThree"
               />
             </div>

@@ -1,5 +1,3 @@
-import React from "react";
-
 const Section2 = () => {
   return (
     <section className="flex flex-row  items-center justify-between mt-16 px-48 space-x-6">

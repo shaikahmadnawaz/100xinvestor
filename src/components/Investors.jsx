@@ -1,5 +1,3 @@
-import React from "react";
-
 const Investors = () => {
   return (
     <div className="mt-[700px]">
@@ -33,11 +31,7 @@ const Investors = () => {
           alt="downloadEightyOne"
         />
         <img src="src/assets/google.png" className="h-10" alt="google" />
-        <img
-          src="src/assets/adobe.png"
-          className="h-10"
-          alt=""
-        />
+        <img src="src/assets/adobe.png" className="h-10" alt="" />
         <img src="src/assets/greylock.svg" className="h-10" alt="nibggstif" />
       </div>
     </div>

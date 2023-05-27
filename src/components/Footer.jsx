@@ -1,5 +1,3 @@
-import React from "react";
-
 const Footer = () => {
   return (
     <div>
@@ -14,7 +12,9 @@ const Footer = () => {
                   className="h-[78px] md:h-auto object-cover w-[78px]"
                   alt="imageThree_One"
                 />
-                <h3 className="text-blue_gray_700 text-center">100xInvestor</h3>
+                <h3 className="text-blue_gray_700 font-semibold text-center">
+                  100xInvestor
+                </h3>
               </div>
               <div className="flex flex-col gap-[15px] items-start justify-start">
                 <h5 className="font-medium text-blue_gray_900 text-center">
@@ -29,7 +29,7 @@ const Footer = () => {
                   Legal
                 </h5>
                 <div className="flex flex-col items-end justify-end w-full">
-                  <div className="flex flex-col gap-3.5 items-end justify-end w-full">
+                  <div className="flex flex-col gap-3.5 items-end justify-start w-full">
                     <a
                       href="#"
                       className="font-normal text-center text-gray_700"
